@@ -1,5 +1,8 @@
 # WALK-AMONGST-THE-DEAD 1.6.2
 
+PLEASE DONATE: https://github.com/juandayz/WALK-AMONGST-THE-DEAD/blob/master/DONATION.md
+
+
 ***ALL CREDITS FOR SANDBIRD.***
 
 Allow players to smear guts over his body using scroll menu over a dead zombie.
